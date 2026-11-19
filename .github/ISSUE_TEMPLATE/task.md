@@ -7,35 +7,40 @@ assignees: ""
 ---
 
 ## Goal
-<!-- What becomes possible when this task is done? One or two sentences. -->
+
+<!-- What will exist or work when this task is done, and what builds on it? 1-3 sentences. -->
+
+
+## Background
+
+<!-- Context a teammate needs to understand the task: the design decision, the story logic, the related issues. Delete this section if the goal is self-explanatory. -->
 
 
 ## Scope
-**Included**
 
+**In scope**
 - 
 
-**Not included** (what this issue will not do)
+**Out of scope**
+- <!-- Mention the issue number that covers it, e.g. "Loading files from Python (see #3)" -->
 
-- 
+## Responsible student
+@
 
-## Assignee / Reviewer
-- Assignee: @
-- Reviewer: @ (someone other than the assignee)
+Reviewer: @ <!-- someone other than the responsible student -->
 
 ## Acceptance criteria
-<!-- Use observable conditions: "input X produces result Y", not "it works well". -->
+
+<!-- Observable conditions: "input X produces result Y", not "it works well". -->
 - [ ] 
 - [ ] 
 - [ ] 
 
 ## Dependencies
-<!-- Issues that must be finished first, or interfaces that must be agreed. Write "None" if there are none. -->
-- 
 
-## Planned AI use (optional)
-<!-- If you plan to use AI, say for which part. Record the outcome in the PR's AI use disclosure. -->
-- 
+<!-- Issues that must be finished first or interfaces that must be agreed. Write "None" if there are none. -->
+None.
 
-## Notes
-<!-- Links, decisions, scope changes -->
+## Notes for review
+
+<!-- What the reviewer should check, and how (e.g. which commands to run). -->
