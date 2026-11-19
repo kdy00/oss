@@ -10,6 +10,7 @@ Closes #
 - [ ] I ran the project locally
 - [ ] `pytest` passes
 - [ ] I checked each acceptance criterion of the issue
+- [ ] (UI changes) Screenshot or GIF attached below
 
 Details and results:
 <!-- Example: whitespace-only answer is rejected; 5 tests pass -->
