@@ -12,9 +12,11 @@ assignees: ""
 
 ## Scope
 **Included**
+
 - 
 
 **Not included** (what this issue will not do)
+
 - 
 
 ## Assignee / Reviewer
